@@ -6,3 +6,4 @@ gen
 __pycache__
 .venv
 config.py
+tasks.db
